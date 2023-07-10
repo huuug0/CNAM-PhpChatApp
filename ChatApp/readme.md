@@ -1,4 +1,4 @@
-J'ai crée cet ChattApp qui commprend une page de connexion et de création de compte.
+J'ai crée ce ChatApp qui commprend une page de connexion et de création de compte.
 On ne peux pas aller plus loin dans l'application si on est pas identifié, une fois connecté on peut choisir de :
     -voir la liste des utilisateurs
     -voir la liste des messages reçus 
